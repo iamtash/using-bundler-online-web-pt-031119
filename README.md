@@ -270,6 +270,7 @@ Add this code to your `Gemfile`
 source "https://rubygems.org"
 gem "rspec"
 gem "sinatra"
+gem "hashie"
 
 group :development do
 gem "pry"
